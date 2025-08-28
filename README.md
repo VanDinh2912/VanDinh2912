@@ -2,16 +2,16 @@
 
 <div align="center">
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
-  
   <br><br>
   <!-- Liên kết mạng xã hội -->
   <a href="https://www.facebook.com/van.inh.313242" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
-         width="40" height="40" style="border-radius:10px; margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
+         style="border-radius:10px;"/>
   </a>
+  
   <a href="mailto:vandinh29125@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-         width="40" height="40" style="border-radius:10px; margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Gmail-vandinh29125%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="border-radius:10px;"/>
   </a>
 </div>
 
