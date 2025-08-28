@@ -1,9 +1,9 @@
-<h1 align="center">🚀 Xin chào! Mình là Văn Định 👨‍💻</h1>
+<h1 align="center">🚀 Hello! I'm Văn Định 👨‍💻</h1>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
   <br><br>
-  <!-- Liên kết mạng xã hội -->
+  <!-- Social links -->
   <a href="https://www.facebook.com/van.inh.313242" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
          style="border-radius:10px;"/>
@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/vandinh29125@gmail.com-D14836?style=for-the-badge&logoColor=white" 
          style="border-radius:10px;"/>
   </a>
-   <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%E1%BB%8Bnh-a94510381/" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%E1%BB%8Bnh-a94510381/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
          style="border-radius:10px;"/>
   </a>
@@ -21,23 +22,23 @@
 
 ---
 
-## ​​​ Giới thiệu
-Mình là **sinh viên Công nghệ Thông tin**, định hướng trở thành **Backend Developer**.  
-Song song việc học tập, mình còn thực hành qua các dự án nhỏ để nâng cao kỹ năng và làm quen với quy trình phát triển phần mềm thực tế.
+## ​​​ Introduction
+I am a **Information Technology student**, aiming to become a **Backend Developer**.  
+Alongside my studies, I practice through small projects to improve my skills and get familiar with real-world software development processes.
 
-📌 **Mục tiêu:** Trở thành **Backend Developer chuyên nghiệp**, có khả năng thiết kế và phát triển các hệ thống **ổn định, bảo mật và dễ mở rộng**.
-
----
-
-## ​​ Kỹ năng
-- **Ngôn ngữ lập trình:** C#, C++, Java, JavaScript, Python  
-- **Cơ sở dữ liệu:** PostgreSQL, MongoDB  
-- **Công cụ & Frameworks:** VS Code, Node.js, Microsoft Office  
-- **Khác:** API REST, cấu trúc dữ liệu & thuật toán, thiết kế hệ thống backend cơ bản  
+📌 **Goal:** To become a **professional Backend Developer**, capable of designing and developing **stable, secure, and scalable systems**.
 
 ---
 
-## ​ Công nghệ mình thường dùng
+## ​​ Skills
+- **Programming languages:** C#, C++, Java, JavaScript, Python  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & Frameworks / Runtime:** Node.js, VS Code, Microsoft Office  
+- **Others:** REST API, data structures & algorithms, basic backend system design  
+
+---
+
+## ​ Technologies I often use
 
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -52,7 +53,8 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 </div>
 
 ---
-## 📊 Thống kê GitHub  
+
+## 📊 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark&height=150) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark&height=150)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark&height=150)
