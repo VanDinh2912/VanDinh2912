@@ -4,14 +4,7 @@
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 </div>
 
-<div align="center">
-  <a href="[LINKEDIN CỦA BẠN]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="[WEBSITE HOẶC PORTFOLIO CỦA BẠN (nếu có)]">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-</div>
+
 
 ---
 
