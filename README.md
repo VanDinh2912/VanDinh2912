@@ -1,8 +1,20 @@
 <h1 align="center">🚀 Xin chào! Mình là Văn Định 👨‍💻</h1>
 
+<h1 align="center">🚀 Xin chào! Mình là Văn Định 👨‍💻</h1>
+
 <div align="center">
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+  
+  <br><br>
+  <!-- Liên kết mạng xã hội -->
+  <a href="https://www.facebook.com/van.inh.313242" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:vandinh29125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
+
 
 ---
 
