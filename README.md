@@ -48,9 +48,4 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark&height=150)
 
 
-##  Sơ đồ kiến trúc Backend cơ bản
 
-```mermaid
-flowchart LR
-    Client --> API[API Server]
-    API --> DB[(PostgreSQL Database)]
