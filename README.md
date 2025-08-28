@@ -52,4 +52,9 @@ flowchart LR
     Client --> API[API Server]
     API --> DB[(PostgreSQL Database)]
 
-## ​ Thống kê GitHub ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark)
+## 📊 Thống kê GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark" alt="Top Languages" height="180"/>
+</p>
