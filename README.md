@@ -21,7 +21,7 @@
 Mình là **sinh viên Công nghệ Thông tin**, định hướng trở thành **Backend Developer**.  
 Song song việc học tập, mình còn thực hành qua các dự án nhỏ để nâng cao kỹ năng và làm quen với quy trình phát triển phần mềm thực tế.
 
-📌 **Mục tiêu:** Trở thành một **Backend Developer chuyên nghiệp**, có khả năng thiết kế và phát triển các hệ thống **ổn định, bảo mật và dễ mở rộng**.
+📌 **Mục tiêu:** Trở thành **Backend Developer chuyên nghiệp**, có khả năng thiết kế và phát triển các hệ thống **ổn định, bảo mật và dễ mở rộng**.
 
 ---
 
