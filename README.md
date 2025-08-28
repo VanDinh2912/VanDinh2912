@@ -44,10 +44,9 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 ---
 ## 📊 Thống kê GitHub  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark" height="150"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark&height=150) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark&height=150)
+
 
 ##  Sơ đồ kiến trúc Backend cơ bản
 
