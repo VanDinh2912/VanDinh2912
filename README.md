@@ -38,7 +38,7 @@ Alongside my studies, I practice through small projects to improve my skills and
 
 ---
 
-## ​ Technologies I often use
+## ​ Technologies & Tools
 
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
