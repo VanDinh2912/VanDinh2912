@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/vandinh29125@gmail.com-D14836?style=for-the-badge&logoColor=white" 
          style="border-radius:10px;"/>
   </a>
+   <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%E1%BB%8Bnh-a94510381/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="border-radius:10px;"/>
+  </a>
 </div>
 
 ---
