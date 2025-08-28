@@ -1,10 +1,7 @@
 <h1 align="center">🚀 Xin chào! Mình là Văn Định 👨‍💻</h1>
 
-<h1 align="center">🚀 Xin chào! Mình là Văn Định 👨‍💻</h1>
-
 <div align="center">
   <img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
-  
   <br><br>
   <!-- Liên kết mạng xã hội -->
   <a href="https://www.facebook.com/van.inh.313242" target="_blank">
