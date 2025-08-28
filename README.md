@@ -32,7 +32,7 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 ## ​​ Kỹ năng
 - **Ngôn ngữ lập trình:** C#, C++, Java, JavaScript, Python  
 - **Cơ sở dữ liệu:** PostgreSQL, MongoDB  
-- **Công cụ & Frameworks:** VS Code, Microsoft Office  
+- **Công cụ & Frameworks:** VS Code, Node.js, Microsoft Office  
 - **Khác:** API REST, cấu trúc dữ liệu & thuật toán, thiết kế hệ thống backend cơ bản  
 
 ---
