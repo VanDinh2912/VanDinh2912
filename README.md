@@ -42,6 +42,12 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 </div>
 
 ---
+## 📊 Thống kê GitHub  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark" height="150"/>
+</div>
 
 ##  Sơ đồ kiến trúc Backend cơ bản
 
@@ -49,9 +55,3 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 flowchart LR
     Client --> API[API Server]
     API --> DB[(PostgreSQL Database)]
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark)  
