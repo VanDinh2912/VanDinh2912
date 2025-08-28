@@ -51,3 +51,5 @@ Song song việc học tập, mình còn thực hành qua các dự án nhỏ đ
 flowchart LR
     Client --> API[API Server]
     API --> DB[(PostgreSQL Database)]
+
+## ​ Thống kê GitHub ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDinh2912&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinh2912&layout=compact&theme=dark)
